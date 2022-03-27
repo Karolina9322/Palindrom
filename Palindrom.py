@@ -4,6 +4,6 @@ def is_palindrome(text):
      return True
     return False
 print("Podaj słowo:")
-text = input()
+word = input()
 
-print(is_palindrome(text))
+print(is_palindrome(word))
